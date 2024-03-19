@@ -31,6 +31,10 @@ gem "capistrano", "~> 3.10", require: false # 追記
 gem "capistrano-rails", "~> 1.6", require: false # 追記
 gem 'capistrano-safe-deploy-to' # 追記
 gem 'unicorn'  # 追記
+gem 'devise'
+gem 'rexml'
+gem 'devise-i18n'
+gem 'aws-sdk-rails'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
