@@ -32,7 +32,7 @@ gem "capistrano-rails", "~> 1.6", require: false # 追記
 gem 'capistrano-safe-deploy-to' # 追記
 gem 'unicorn'  # 追記
 gem 'devise'  # 追記
-gem 'rexml'
+gem 'rexml'  # 追記
 gem 'devise-i18n'
 gem 'aws-sdk-rails'
 gem 'dotenv-rails'
